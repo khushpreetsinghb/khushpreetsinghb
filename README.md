@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 - :construction: I’m currently working on  My Protofolio Website.
-- :seedling: I’m currently learning React.
+- :seedling: I’m currently learning Java.
 - :eyes: I’m looking to collaborate on OpenSource and Hackathons.
 - :raised_hand: I’m looking for help with Projects and OpenSource.
 - :speech_balloon: Ask me about Web development.
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 `Object Oriented Programming (Principles)` `Java` `Python` `Flask` `SQL` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap` `jQuery` `Ajax`
 
-![Khushpreet github stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=radical)
+![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb)](https://github.com/khushpreetsinghb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb&layout=compact)](https://github.com/khushpreetsinghb/github-readme-stats)
