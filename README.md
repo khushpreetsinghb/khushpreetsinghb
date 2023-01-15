@@ -27,11 +27,8 @@ Here are some ideas to get you started:
 https://github-readme-stats.vercel.app/api?username=[khushpreetsinghb]
 ![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&count_private=true)
 [![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb)](https://github.com/khushpreetsinghb/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushpreetsinghb&repo=github-readme-stats)](https://github.com/khushpreetsinghb/github-readme-stats)
- -->
- 
-<!-- New working one -->
-<picture>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushpreetsinghb&repo=github-readme-stats)](https://github.com/khushpreetsinghb/github-readme-stats)-->
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -41,7 +38,9 @@ https://github-readme-stats.vercel.app/api?username=[khushpreetsinghb]
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true" />
-</picture>
+</picture> -->
+<!-- [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=khushpreetsinghb&repo=dev.to)](https://github.com/thepracticaldev/dev.to)-->
+
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb&layout=compact)](https://github.com/khushpreetsinghb/github-readme-stats) -->
@@ -57,6 +56,4 @@ https://github-readme-stats.vercel.app/api?username=[khushpreetsinghb]
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb&langs_count=8)](https://github.com/khushpreetsinghb/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- New Working one -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb)](https://github.com/khushpreetsinghb/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb)](https://github.com/khushpreetsinghb/github-readme-stats) -->
