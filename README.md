@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 
 `Object Oriented Programming (Principles)` `Java` `Python` `Flask` `SQL` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap` `jQuery` `Ajax`
 
-<!-- [![Khushpreet's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/khushpreetsinghb/github-readme-stats#gh-dark-mode-only)
+<!-- [![Khushpreet's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/khushpreetsinghb/github-readme-stats#gh-dark-mode-only) -->
 [![Khushpreet's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/khushpreetsinghb/github-readme-stats#gh-light-mode-only)
-![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=radical)
+<!-- ![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=radical)
 https://github-readme-stats.vercel.app/api?username=[khushpreetsinghb]
 ![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&count_private=true)
 [![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb)](https://github.com/khushpreetsinghb/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushpreetsinghb&repo=github-readme-stats)](https://github.com/khushpreetsinghb/github-readme-stats)-->
-<picture>
+<!-- <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
@@ -38,14 +38,13 @@ https://github-readme-stats.vercel.app/api?username=[khushpreetsinghb]
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true" />
-</picture>
+</picture>-->
 <!-- [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=khushpreetsinghb&repo=dev.to)](https://github.com/thepracticaldev/dev.to)-->
 
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb&layout=compact)](https://github.com/khushpreetsinghb/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb&exclude_repo=github-readme-stats,khushpreetsinghb.github.io)](https://github.com/khushpreetsinghb/github-readme-stats)
- -->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb&exclude_repo=github-readme-stats,khushpreetsinghb.github.io)](https://github.com/khushpreetsinghb/github-readme-stats)-->
 <!-- <a href="https://github.com/khushpreetsinghb/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khushpreetsinghb&repo=github-readme-stats" />
 </a>
@@ -56,4 +55,4 @@ https://github-readme-stats.vercel.app/api?username=[khushpreetsinghb]
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb&langs_count=8)](https://github.com/khushpreetsinghb/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb)](https://github.com/khushpreetsinghb/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb)](https://github.com/khushpreetsinghb/github-readme-stats) -->
