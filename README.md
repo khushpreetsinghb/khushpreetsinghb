@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 `Object Oriented Programming (Principles)` `Java` `Python` `Flask` `SQL` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap` `jQuery` `Ajax`
 
 <!-- [![Khushpreet's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/khushpreetsinghb/github-readme-stats#gh-dark-mode-only) -->
-[![Khushpreet's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/khushpreetsinghb/github-readme-stats#gh-light-mode-only)
+<!-- [![Khushpreet's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/khushpreetsinghb/github-readme-stats#gh-light-mode-only) -->
 <!-- ![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=radical)
 https://github-readme-stats.vercel.app/api?username=[khushpreetsinghb]
 ![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&count_private=true)
