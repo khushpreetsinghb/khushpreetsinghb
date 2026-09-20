@@ -1,58 +1,99 @@
-### Hi there, I'm Khushpreet.:wave:
+# Khushpreet Singh
 
-## I'm  Self Learner, Devloper, and Computer Geek.
+**Python & JavaScript Developer** · MCA Graduate
 
-<!--
-**khushpreetsinghb/khushpreetsinghb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Dhuri, Punjab, India · he/him
 
-Here are some ideas to get you started:
--->
+📧 khushpreets81b@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/khushpreets)
 
-- :construction: I’m currently working on  My Protofolio Website.
-- :seedling: I’m currently learning Java.
-- :eyes: I’m looking to collaborate on OpenSource and Hackathons.
-- :raised_hand: I’m looking for help with Projects and OpenSource.
-- :speech_balloon: Ask me about Web development.
-- :mailbox: How to reach me: khushpreets81b@gmail.com
-- :wink: Pronouns: he/him
-- :zap: Fun fact: I Love JavaScript.
+I build machine learning models and full-stack web applications — from data preprocessing and model evaluation in Python to React and MERN apps in JavaScript. Recently completed my MCA at Lovely Professional University and currently work at HK Consultants & Engineers Pvt. Ltd.
 
-## Languages and Tools:-
+---
 
-`Object Oriented Programming (Principles)` `Java` `Python` `Flask` `SQL` `MySQL` `HTML` `CSS` `JavaScript` `Bootstrap` `jQuery` `Ajax`
+## 🛠️ Tech Stack
 
-<!-- [![Khushpreet's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/khushpreetsinghb/github-readme-stats#gh-dark-mode-only) -->
-<!-- [![Khushpreet's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/khushpreetsinghb/github-readme-stats#gh-light-mode-only) -->
-<!-- ![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=radical)
-https://github-readme-stats.vercel.app/api?username=[khushpreetsinghb]
-![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&count_private=true)
-[![Khushpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=khushpreetsinghb)](https://github.com/khushpreetsinghb/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khushpreetsinghb&repo=github-readme-stats)](https://github.com/khushpreetsinghb/github-readme-stats)-->
-<!-- <picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=khushpreetsinghb&show_icons=true" />
-</picture>-->
-<!-- [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=khushpreetsinghb&repo=dev.to)](https://github.com/thepracticaldev/dev.to)-->
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
 
+**Machine Learning & Data**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4D77CF?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
+**Web**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb&layout=compact)](https://github.com/khushpreetsinghb/github-readme-stats) -->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb&exclude_repo=github-readme-stats,khushpreetsinghb.github.io)](https://github.com/khushpreetsinghb/github-readme-stats)-->
-<!-- <a href="https://github.com/khushpreetsinghb/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khushpreetsinghb&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/khushpreetsinghb/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khushpreetsinghb&repo=convoychat" />
-</a> -->
-<!-- [![Khushpreet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khushpreetsinghb)](https://github.com/khushpreetsinghb/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb&langs_count=8)](https://github.com/khushpreetsinghb/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khushpreetsinghb)](https://github.com/khushpreetsinghb/github-readme-stats) -->
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📌 Projects
+
+### Rainfall Prediction — Machine Learning
+Model that predicts rainfall from historical weather data.
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+- Performed data preprocessing, statistical analysis, and visualization of weather datasets
+- Achieved **97% accuracy** with Logistic Regression and **83%** with K-Nearest Neighbors
+
+### RAG Question-Answering System
+Retrieval-augmented generation system that answers questions grounded in short source documents.
+`Python` `LangChain` `Gemini API` `NLP`
+
+- Combined information retrieval with LLM generation to improve answer accuracy
+
+### WatchWave — E-commerce (MERN)
+Full-stack e-commerce application built on the MERN stack.
+`MongoDB` `Express` `React` `Node.js`
+
+### TaskWave — Task Management (MERN)
+Full-stack task management application built on the MERN stack.
+`MongoDB` `Express` `React` `Node.js`
+
+### News Aggregator (React)
+Dynamic news website fetching real-time articles via NewsAPI.
+`React` `Vite` `Bootstrap` `NewsAPI`
+
+---
+
+## 🔭 Currently
+
+- 💼 **Software Developer** at **HK Consultants & Engineers Pvt. Ltd.**
+- 🌱 Strengthening **Data Structures & Algorithms**
+- 🧑‍💻 Building my **portfolio website**
+- 🤝 Looking to collaborate on **open source** and **hackathons**
+
+---
+
+## 🎓 Education
+
+**MCA — Lovely Professional University** · 2023–2025
+CGPA: 8.24/10 · Coursework: Data Structures, Algorithms, DBMS, Software Engineering, Data Science
+
+**B.Sc. (Non-Medical) — Punjabi University, University College Benra** · 2019–2022
+84% · University Topper
+
+---
+
+## 🏅 Achievements
+
+- **Hacktoberfest 2023** — submitted pull requests to open-source repositories
+- **University Topper** — B.Sc. (Non-Medical)
+
+---
+
+💬 Open to collaborations, hackathons, and opportunities in software development and machine learning — reach me at **khushpreets81b@gmail.com**
